@@ -1,0 +1,10 @@
+streamlit
+supabase-py
+pandas
+bcrypt
+plotly
+st-aggrid
+fpdf
+pytz
+twilio
+openpyxl
